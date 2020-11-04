@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADPractica1ATR</string>
+    <string name="settings_header">General</string>
+    <string name="settings_entry_internal">Almacenamiento interno</string>
+    <string name="settings_entry_external">Almacenamiento externo</string>
+    <string name="setting_source_title">Fuente de los datos</string>
+    <string name="title_settings_bar">Ajustes</string>
+    <string name="tv_ball">Carmelo ponme un 10 pls</string>
+    <string name="title_activity_settings">Ajustes</string>
+    <string name="string_unknown">desconocido</string>
+    <string name="string_warning">Para continuar, debes conceder los permisos</string>
+    <string name="string_grant">Conceder</string>
+    <string name="string_norecords">Sin registros</string>
+    <string name="string_update">Actualizar</string>
+</resources>

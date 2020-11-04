@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ADPractica1ATR</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="settings_header">General</string>
+    <string name="settings_entry_internal">Internal storage</string>
+    <string name="settings_entry_external">External storage</string>
+    <string name="setting_source_title">Data source</string>
+    <string name="title_settings_bar">Settings</string>
+    <string name="tv_ball">Carmelo grade me 10 pls</string>
+    <string name="string_unknown">unknown</string>
+    <string name="string_warning">To continue, you have to grant all permissions</string>
+    <string name="string_grant">Grant</string>
+    <string name="string_norecords">No records</string>
+    <string name="string_update">Update</string>
+</resources>

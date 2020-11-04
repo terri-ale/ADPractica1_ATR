@@ -1,0 +1,15 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/settings_header">
+
+        <ListPreference
+            app:defaultValue="internal"
+            app:entries="@array/source_entries"
+            app:entryValues="@array/source_values"
+            app:key="source"
+            app:title="@string/setting_source_title"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

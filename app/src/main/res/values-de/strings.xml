@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADPractica1ATR</string>
+    <string name="settings_header">Allgemeine</string>
+    <string name="settings_entry_internal">Interne Speicher</string>
+    <string name="settings_entry_external">Externer Speicher</string>
+    <string name="setting_source_title">Datenquelle</string>
+    <string name="title_settings_bar">Einstellungen</string>
+    <string name="tv_ball">Carmelo bewerte mich mit 10</string>
+    <string name="title_activity_settings">Einstellungen</string>
+    <string name="string_unknown">unbekannt</string>
+    <string name="string_warning">Um fortzufahren, müssen Sie die Berechtigungen erteilen</string>
+    <string name="string_grant">gewähren</string>
+    <string name="string_norecords">keine Aufzeichnungen</string>
+    <string name="string_update">aktualisieren</string>
+</resources>
